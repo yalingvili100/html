@@ -1,0 +1,44 @@
+body {
+    font-family: fantasy;
+    background: white;
+    margin: 0;
+    text-align: center;
+}
+
+.div0 {
+    width: 1400px;
+    margin: 0 auto;
+    background: silver;
+    border: 8px solid black;
+    padding: 8px;
+    margin-top: 8px;
+
+
+}
+
+.div1 {
+    width: 700px;
+    margin: 0 auto;
+    background: red;
+    border: 8px solid black;
+    padding: 8px;
+
+}
+
+.div2 {
+    width: 700px;
+    margin: 0 auto;
+    background: yellow;
+    border: 8px solid black;
+    padding: 8px;
+    margin-top: 8px;
+}
+
+.div3 {
+    width: 700px;
+    margin: 0 auto;
+    background: blue;
+    border: 8px solid black;
+    padding: 8px;
+    margin-top: 8px;
+}
