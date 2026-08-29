@@ -8,17 +8,17 @@ body {
 }
 
 .div0 {
-    height: 1500px;
+    height: 700px;
+    width: 1000px;
     margin: 0 auto;
     background: silver;
     border: 8px solid black;
-    padding: 8px;
+
 
 }
 
 .div1 {
-    height: 30%;
-    margin: 0 auto;
+    height: 25.5%;
     background: red;
     border: 8px solid black;
     padding: 8px;
@@ -27,8 +27,7 @@ body {
 }
 
 .div2 {
-    height: 30%;
-    margin: 0 auto;
+    height: 25.5%;
     background: yellow;
     border: 8px solid black;
     padding: 8px;
@@ -36,10 +35,12 @@ body {
 }
 
 .div3 {
-    height: 30%;
-    margin: 0 auto;
+    height: 25.5%;
     background: blue;
     border: 8px solid black;
     padding: 8px;
     margin: 16px;
+    /* background-image: url(images/image1.jpg); */
+    /* background-size: 100% 100%; */
+
 }
